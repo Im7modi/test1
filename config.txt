@@ -1,0 +1,6 @@
+owner=251647009096728576
+prefix=#
+game=ה׃Úל בבהַּֽ.
+stayinchannel=true
+songinstatus=false
+token=NTUxMTQwMDMyNzQwNzIwNjQx.D3Pyiw.SwDFK7sA95188jmEEDtVFnHW5q0
